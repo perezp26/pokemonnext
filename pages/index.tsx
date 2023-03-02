@@ -18,7 +18,7 @@ interface Props {
 
 
   return (
-    <Layout title='Pokemon'>
+    <Layout title='Pokemon Next'>
         <Grid.Container gap={ 2 } justify='flex-start'>
                 { 
                   pokemons.map( ( e )=> ( 
